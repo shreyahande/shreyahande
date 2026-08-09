@@ -202,14 +202,6 @@ I aim to continuously improve my automation skills and contribute to delivering 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyahande&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyahande&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
